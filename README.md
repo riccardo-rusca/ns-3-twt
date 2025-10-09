@@ -1,7 +1,7 @@
 # TWT simulator based on ns-3
 
 If you use the content of this repository, please reference the following papers: 
-> F. Busacca, C. Puligheddu, F. Raviglione, R. Rusca, C. Casetti, C. F. Chiasserini and S. Palazzo, "Target Wake Time Scheduling for Time-sensitive and Energy-efficient Wi-Fi Networks," Arxiv, [URL](https://arxiv.org/abs/2509.26245) [BibTeX](/citeJournal.bib)
+> F. Busacca, C. Puligheddu, F. Raviglione, R. Rusca, C. Casetti, C. F. Chiasserini and S. Palazzo, "Target Wake Time Scheduling for Time-sensitive and Energy-efficient Wi-Fi Networks," IEEE Transactions on Mobile Computing, [URL](https://arxiv.org/abs/2509.26245) [BibTeX](/citeJournal.bib)
 
 > C. Puligheddu, F. Busacca, R. Rusca, F. Raviglione, C. Casetti, C. F. Chiasserini and S. Palazzo, "Target Wake Time Scheduling for Time-Sensitive Networking in the Industrial IoT," 2024 IEEE 35th International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), Valencia, Spain, 2024, pp. 1-7, doi: 10.1109/PIMRC59610.2024.10817339. [URL](https://ieeexplore.ieee.org/document/10817339) [BibTeX](/citeConference.bib)
 
