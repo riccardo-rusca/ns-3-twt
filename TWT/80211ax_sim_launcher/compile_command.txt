@@ -1,0 +1,1 @@
+g++ -o launcher launcher.cpp
